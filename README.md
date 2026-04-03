@@ -60,7 +60,7 @@ Os dados são armazenados apenas em memória durante a execução do programa. A
 
  Possíveis melhorias
 
-* Persistência de dados com JSON
+* Persistência de dados com JSON - Feito
 * Interface gráfica ou web
 * Sistema de login de usuário
 * Relatórios e totais de gastos
